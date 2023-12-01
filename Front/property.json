@@ -1,0 +1,32 @@
+{
+  "property": [
+    {
+      "id": 1,
+      "image": "/small-banner.jpg",
+      "type": "Chung Cư",
+      "project": "Sealan",
+      "country": "Quy Nhơn",
+      "address": "3",
+      "scale": "100 SQRT",
+      "description": "Đẹp nha",
+      "room": "2",
+      "service": "Wifi, Chỗ Đậu Xe",
+      "price": "3.000.000.000",
+      "status": "Available"
+    },
+    {
+      "project": "Goldview",
+      "type": "Chung Cư",
+      "description": "Đẹp lắm yên tâm",
+      "country": "TP  HCM",
+      "district": "Quận 4",
+      "address": "192 Bến Vân Đồn P5",
+      "scale": "1000m",
+      "room": "5",
+      "service": "Xe đậu thoải mái, tha hồ",
+      "price": "5000000000",
+      "propid": "BDS00001",
+      "id": 2
+    }
+  ]
+}
